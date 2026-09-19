@@ -1,8 +1,13 @@
 {
   "name": "LAINT Control • STOP Acessórios",
   "short_name": "STOP Control",
+  "id": "./",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
+  "orientation": "portrait-primary",
+  "lang": "pt-BR",
+  "description": "Controle de estoque, vendas e financeiro da STOP Acessórios.",
   "background_color": "#070809",
   "theme_color": "#070809",
   "icons": [
